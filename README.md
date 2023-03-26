@@ -26,6 +26,7 @@ I have visualized through matplotblib and wordcloud. Here are some of the foundi
 <img width="410" alt="Screen Shot 2023-03-26 at 2 16 20 PM" src="https://user-images.githubusercontent.com/118776460/227799529-2bd35a22-980e-4876-b198-da423d7f5ec6.png">
 <img width="417" alt="Screen Shot 2023-03-26 at 2 16 32 PM" src="https://user-images.githubusercontent.com/118776460/227799531-e8e1e4ce-a7cd-4bd9-b1dd-6297e2338f97.png">
 <img width="985" alt="Screen Shot 2023-03-26 at 2 16 41 PM" src="https://user-images.githubusercontent.com/118776460/227799537-fb212826-ef9e-4786-ab07-c87111e859ad.png">
+
 # Findings
 * The most viewed videos from his channels are all related to eating a lot of calories from either a set of numbner of calories or a challenge. 
 * The least viewed videos from his channels are all of his training videos where he films his workouts.
